@@ -1,4 +1,6 @@
 # DotNetCore REST API
+![.NET Core](https://github.com/maheshkareeya/dotnetcore-mongodb-rest-api/workflows/.NET%20Core/badge.svg)
+
 
 ### This is simple Dotnet REST API Code with mongodb.
 
